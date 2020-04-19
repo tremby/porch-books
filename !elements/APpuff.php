@@ -1,4 +1,4 @@
 
 <center>
-<img src="/!elements/APlogo25.png" alt="tor.png"  6Kbytes" width=143 height=36>
+<img src="/!elements/APlogo25.png" alt="tor.png" width=143 height=36>
 </center>
