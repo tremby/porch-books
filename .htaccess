@@ -1,0 +1,9 @@
+# scrap directoryindex settings from lower in the dir tree
+DirectoryIndex disabled
+
+DirectoryIndex 001.php 01.php !home.php !---cat.php
+# 190717   Webjames 2016update does not obey this call to 001.php (check whether the 2013 version does), so I tried adding it to the Attributes file under defaultfile. The menu routine, however, does not recognize the resulting Webjames-served page as the "active" one. (On the Apache server, though, all is well with the DirectoryIndex command.) Upshot: Go back to old Attributes (181204), and when Wj gives an autoindex, just click 001.
+
+
+# disable autoindex
+Options -Indexes

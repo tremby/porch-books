@@ -1,0 +1,11 @@
+# disable index
+
+Options -Indexes
+
+# block robots (https://developers.google.com/search/reference/robots_meta_tag )
+
+# <Files ~ "\.pdf$">
+# <Files ~ >
+<Files ~ "\.php$">
+  Header set X-Robots-Tag "noindex, nofollow"
+</Files>

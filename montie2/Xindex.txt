@@ -1,0 +1,8 @@
+2019-06-15.saturday
+
+This is version "d" of the PDF.
+* The blue highlights for index tags have been switched off.
+* Yellow highlights indicate queries (mostly cases where I have added a few words to text).
+* Updated family tree still to come (page references; possible addition of younger Richard).
+
+  --jim
