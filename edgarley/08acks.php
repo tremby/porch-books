@@ -2,8 +2,7 @@
   $titlebar = "Imprint &mdash; Victorian Edgarley | Abbey Press Glastonbury";
   $notedir  = basename(dirname(__FILE__));
   $notedate = filemtime(__FILE__);
-  include $_SERVER['DOCUMENT_ROOT'] . '/!elements/articleheadporch';
-  showfiledate($notedate);
+  include '../!elements/articleheadporch.php';
 ?>
 
 <?php include '05title.php'; ?>
@@ -37,5 +36,5 @@
 
 
 <?php
-  include $_SERVER['DOCUMENT_ROOT'] . '/!elements/articletail';
+  include '../!elements/articletail.php';
 ?>

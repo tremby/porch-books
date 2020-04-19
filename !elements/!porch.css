@@ -1,0 +1,106 @@
+/* 190602 For Montie and Edgarley books, override the following items in the underlying !2018.css file.  */
+
+body {
+   font-family: Georgia, serif;
+   font-size: 12pt;
+   color: black;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 9pt;  /* can also use em rather than pt for unit */
+    text-indent: 1.5em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+   /* font-family: Homerton, Helvetica, Arial, sans-serif;  //That was !2018/css  */
+   font-family: Georgia, serif;
+   font-weight: normal;
+   font-style: normal;
+}
+h1 {
+   font-family: "Goudy Handtooled", serif;
+   font-weight: bold;
+   font-size: 30pt;
+}
+h2 {
+   font-weight: bold;
+   font-size: 18pt;
+   margin-top: 18pt;
+   margin-bottom: 9pt;
+}
+h3 {
+   font-weight: bold;
+   font-style: italic;
+   margin-top: 12pt;
+   }
+
+blockquote {
+   display: block;
+   margin: 1em 2em;
+   background-color: beige;
+   padding: 1em;
+   text-style: normal;
+   font-size: 11pt;
+   clear: both;
+   }
+blockquote h5, blockquote h6 {
+/* 190625 Bart corrected my earlier "blockquote h5, h6" */
+   color: brown;
+   font-weight: bold;
+   font-size: 12pt;
+   margin-top: 0;
+   margin-bottom: 9pt;
+   }
+blockquote h6 {
+   padding-left: 0.5em;
+   font-size: 11pt;
+   margin-top: 0;
+   }
+
+
+/* 190612 navigation bar from https://vanseodesign.com/css/simple-navigation-bar-with-css-and-xhtml/ */
+/* 190616 change to sans and reduce size, hoping for better result on fone screen */
+
+ul#list-nav {
+   list-style: none;
+   margin: 9pt 0pt;
+   padding-left: 0; /* 190817 ie, don't use default indent for UL */
+   text-align: center;
+   }
+ul#list-nav li {
+   display: inline;
+   text-align: center;
+   font-weight: bold;
+   font-size: 9pt;
+   font-family: sans-serif;
+   margin: 0 1pt 0 0;
+   border-style: solid;
+   border-width: 1px;
+   border-color: white;
+   padding: 2pt 4pt;
+   background-color: #D7D79B;
+   }
+ul#list-nav .active {
+   border-color: transparent;
+   background-color: transparent;
+   font-style: italic;
+   }
+ul#list-nav li a {
+   text-decoration: none;
+   }
+@media screen and (max-width: 414px) {
+   ul#list-nav li {
+   font-family: sans-serif;
+   font-size: 7pt;
+   margin: 0;
+   border-style: none;
+/*    border-left-width: 1px; */
+/*    border-right-width: 0; */
+/*    border-color: white; */
+   padding: 2pt 1pt;
+   }
+}
+
+
+  /* 190820 temp change to see if this is obeyed at all */

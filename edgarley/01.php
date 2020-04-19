@@ -2,8 +2,7 @@
   $titlebar = "Victorian Edgarley: the fall of the House of Porch";
   $notedir  = basename(dirname(__FILE__));
   $notedate = filemtime(__FILE__);
-  include $_SERVER['DOCUMENT_ROOT'] . '/!elements/articleheadporch';
-  showfiledate($notedate);
+  include '../!elements/articleheadporch.php';
 ?>
 
 <?php include '05title.php'; ?>
@@ -375,5 +374,5 @@ The Hermitage, the miniature of the Abbot&rsquo;s Kitchen in the grounds of Edga
 <?php include '05title.php'; ?>
 
 <?php
-  include $_SERVER['DOCUMENT_ROOT'] . '/!elements/articletail';
+  include '../!elements/articletail.php';
 ?>

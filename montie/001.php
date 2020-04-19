@@ -2,10 +2,8 @@
   $titlebar = "Montie Porch: a charmed life";
   $notedir  = basename(dirname(__FILE__));
   $notedate = filemtime(__FILE__);
-  include $_SERVER['DOCUMENT_ROOT'] . '/!elements/articleheadporch';
+  include '../!elements/articleheadporch.php';
 ?>
-
-<?php showfiledate($notedate); ?>
 
 <?php include '005title.php'; ?>
 <?php include '007menu.php'; ?>
@@ -280,5 +278,5 @@ Montie in uniform in 1918, at the time of his marriage to Jennie.
 
 
 <?php
-  include $_SERVER['DOCUMENT_ROOT'] . '/!elements/articletail';
+  include '../!elements/articletail.php';
 ?>

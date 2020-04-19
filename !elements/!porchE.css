@@ -1,0 +1,6 @@
+/* 190602 For Montie book, override the following items in the underlying !2018.css file.  [[Will this actually work?  YES!]]  */
+/* 190618 For Edgarley book (web work being done after Montie), just a change of livery colour. */
+
+ul#list-nav li {
+   background-color: #e8d2d2 ;  // 33% tint of colour used on Impression covere
+   }

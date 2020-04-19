@@ -1,0 +1,320 @@
+/* 180215 This began as Fresco4/css; added Bart's "figure" section and his corrections */
+/* 180724 Beware of stray "close comment" markers: they confuse some browsers or can cause strange errors */
+/* 190529  This CSS is lifted holusbolus from Consoc, for use on the Parsons site at AP-net.  Some specific overrides are in "!porch/css" */
+/* 190807   Add @media clauses to Figure definitions, as suggd by Bart (email of 190724). */
+
+body {
+   font-family: "Trinity.Medium", Trinity, "Times New Roman", Times, serif;
+   font-size: 12pt;
+   color: black;
+}
+
+/* 190622 copied this from BW.fresco/css to deal with Windows users who habitually view fullscreen. Set <div class="wholepage"> in articlehead & articletail. 190623 changed width to max-width to suit fone screens.  */
+div.wholepage {
+   max-width: 800px;
+   margin: 10 auto;
+}
+
+article {
+	display: block;
+	padding-bottom: 1em;
+	margin-bottom: 10px;
+	clear: both;
+}
+
+box {
+   display: block;
+   margin: 6pt;
+   padding: 3pt 9pt 9pt 9pt;
+   border: 1.5pt solid green;
+}
+/* 180807 for use in xref panels, to match the "reprinted from" panel defined on 180702 below */
+box.contents {
+   border: 0;
+   margin: 9pt;
+   background-color: #dfd;
+   padding: 3pt 18pt;
+   font-style: italic;
+}
+
+/* 180702 make the "reprinted from" line stand out at top of news pages */
+reprint {
+   display: block;
+   margin: 9pt;
+   background-color: #dfd;
+   padding: 1pt 18pt;
+   font-family: Trinity, "Times New Roman", Times, serif;
+   color: black;
+   font-size: 12pt;
+   font-style: italic;
+}
+
+
+/* 180227 will this work if placed *within* an h2 heading? */
+/* Yes. And it works with no </bygreen> tag. Is that kosher? No, says Bart.*/
+bygreen {
+   display: inline;
+   color: #009000;
+   font-family: Trinity, "Times New Roman", Times, serif;
+   font-size: 12pt;
+   font-style: italic;
+   padding-left: 1em;
+   white-space: nowrap;
+}
+/* 181119 in figure captions, make text size match.  This doesnt work; see correct version in the Figcaption section below. */
+/* bygreen.figcaption */
+/*    font-size: 11pt; */
+/*    color: blue; */
+/* } */
+
+
+/* 180302 trying this: */
+
+thickthin {
+	display: block;
+	margin: 2pt 0 6pt 0;
+	border-top: 2pt;
+	border-bottom: 1pt;
+}
+
+
+
+/* === The following are from Bart 2018-02-13 === */
+
+/* 180724 Swapped top and bottom for sake of subtopics in Contents list */
+p {
+    margin-top: 6pt;
+    margin-bottom: 0;  /* can also use em rather than pt for unit */
+}
+/* new 180218*/
+.ednote {
+   font-style: italic;
+   color: #006000;
+}
+
+/* new 180815 */
+.quote {
+   margin-left: 12pt;
+   font-size: 90%;
+}
+
+/* new 180829 */
+.tightlines {
+   display: block;
+   margin-top: 3pt;
+   margin-bottom: 3pt;
+}
+.tightlines p {
+   text-indent: 3em;
+   margin-top: 0;
+   margin-bottom: 0;
+}
+
+/* 181119 a strikethrough style -- How to do a thicker line?  Netsurf ignores "double" */
+.xout {
+   text-decoration: line-through;
+   text-decoration-style: double;
+   text-decoration-color: red;
+   color: gray;
+}
+
+/* 190807 added this section (Bart's email 190724 re @media) */
+figure, figure img {
+    max-width: 100%;
+}
+figure img {
+    height: auto;
+}
+
+/* @media (max-width: 600px) {
+    figure {
+        float: none;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}  */
+/* 190807 end of new section.
+-- But should @media part go AFTER the general case below?
+-- Is 600px the best value to use for a phone screen? */
+
+
+figure, figcaption {
+	display: block;
+/* This is default with new browsers but Netsurf hasn't heard of figure or figcaption before so it'd render them inline with surrounding text by default if we didn't tell it this */
+	margin: 6pt 9pt
+/* 190615 increased the side margin from 6pt to 9pt   */
+}
+figure {
+	text-align: center;
+/* This centres both the caption (in all cases) and the image itself (when not floated left or right) */
+/*	margin: 2pt 2pt; */
+/* This is roughly what Firefox's default margins for a figure are; Netsurf has none by default */
+}
+figure.left {
+	float: left;
+	margin-left: 0;
+	martin-right: 9pt;
+	text-align: left;
+}
+figure.right {
+	float: right;
+	margin-left: 6pt;
+	margin-right: 0;
+	text-align: left;
+}
+figcaption {
+	font-style: italic;
+	font-size: 11pt;
+}
+
+/* 190807 moved this @media section so that it is AFTER general case of Figure
+   Made max-width 799 instead of original 600, because Cubot Nova fone is 1440x720.  // 190819 try 719 then 414, because fone (360x720) was still not providing a margin.  Seems "screen and" must be explicit in the condition. */
+@media screen and (max-width: 414px) {
+    figure.left, figure.right {
+        float: none;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+/* 190623 omit the "." (ie, not figcaption.bygreen); this works! */
+figcaption bygreen {
+   display: inline;
+   font-size: 11pt;
+   padding-left: 1em;
+   white-space: nowrap;
+}
+
+.muted {
+	color: gray;
+}
+
+/*
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+180216 This is to keep intruders-from-below out of a block such as <article>.
+So each time use   <article class="clearfix">         */
+
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    height: 0;
+}
+
+/* Teach Netsurf about the header tag */
+header {
+	display: block;
+}
+
+/* Styles for a header sandwich */
+.sandwich {
+/*	background-color: lightgreen; */
+	border-color: green;
+	border-width: 1.5pt;
+	border-style: solid none;
+	padding-top: 2pt;
+	padding-bottom: 2pt;
+	margin-bottom: 6pt;
+}
+.sandwich h2 {
+	font-family: Homerton, Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	font-size: 18pt;
+	display: inline;
+}
+.sandwich .byline {
+	display: inline;
+	color: green;
+	font-family: Trinity, "Times New Roman", Times, serif;
+	font-size: 12pt;
+	font-style: italic;
+	padding-left: 1em;
+}
+
+
+/* === === === */
+
+h1, h2, h3, h4, h5, h6, h7 {
+   /* font-family: Homerton, Helvetica, Arial, sans-serif;  */
+   font-family: sans-serif;
+   font-weight: normal;
+   font-style: normal;
+}
+h1 {
+   font-weight: bold;
+   font-size: 24pt;
+}
+h2 {
+   font-weight: normal;
+   font-size: 18pt;
+}
+h3 {
+   font-weight: normal;
+   font-size: 15pt;
+   margin-bottom: 3pt;
+}
+h4 {
+   font-style: italic;
+   font-size: 15pt;
+}
+h5 {
+   font-style: italic;
+   font-weight: bold;
+   font-size: 15pt;
+}
+h6 {
+   font-style: italic;
+   font-size: 12pt;
+/*    color: green; */
+}
+h7 {
+   font-weight: bold;
+   font-size: 11pt;
+}
+big {
+   font-size: 14pt;
+}
+small {
+   font-size: 8pt;
+   line-height: 110%;
+}
+.author {
+   color: #009000;
+   font-size: 11pt;
+   font-style: italic;
+   vertical-align: baseline;
+}
+.person {
+   color: #ff0000;
+   font-weight: bold;
+   background: #000000;
+}
+.edbar {
+   border-left: 9pt solid green;
+   padding-left: 1em;
+}
+
+/* 180729 variation in styles for the Contents page (which will use DIV class="contents" ) */
+.contents p {
+    margin-top: 2pt;
+    margin-bottom: 0;
+}
+.contents h2 {
+    background-color: #ddffdd;
+    margin-top: 1em;
+    padding: 1pt 1em;
+    width: 70%;
+}
+/* 180723 as a para style like ednote. (Intended for use in Contents list.) */
+.contents p.subtopic {
+   margin-left: 2em;
+   margin-top: 0;
+   margin-bottom: 0;
+}
