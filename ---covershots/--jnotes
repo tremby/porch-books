@@ -1,0 +1,10 @@
+190608.s
+New covershot for Montie, having added the word "Winston" to subtitle.
+
+First set (area0/jpg) started off from !Snapper saving a jpeg, which was then cropped and resized in !Scan.
+
+Then (area1) redid the process but !Snapper saved a drawfile, which was then cropped and resized in !Scan and only final stage saved as Jpeg.
+
+Blowing them both up to 300% shows neither is perfect. In fact, the letters "ll" in Churchill are more pixelly in the version 1 than in version 0. But some other bits are better in 1 than 0.  Will go with version 1.
+
+Maybe there's a way that PHP could detect a RiscOS browser and serve it the vector version?!
