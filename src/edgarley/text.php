@@ -369,6 +369,16 @@ The Hermitage, the miniature of the Abbot&rsquo;s Kitchen in the grounds of Edga
 
 <p>So I, for one, salute the Porches!</p>
 
+<h2>Addendum &ndash; the extraordinary saga of the Porch family continues&hellip;</h2>
+
+<p>In 2015, there came a new and almost unbelievable disclosure about the family from Julian Wood, a hitherto-unknown great-great-great-grandson of the last squire, Albert Porch.</p>
+
+<p>Julian revealed that when Albert was 17, he had a relationship with an Edgarley chambermaid by the name of Edith May Small.</p>
+
+<p>Edith May Small became pregnant by Albert and was sent away to have the child, a little boy, whom she named John Albert!</p>
+
+<p>And as we know, some years later, Albert and his wife Margaret would name their first child, a baby girl, Edith May!</p>
+
 <br><br><br><br>
 <?php include '_07menu.php'; ?>
 <?php include '_05title.php'; ?>
