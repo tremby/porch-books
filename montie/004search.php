@@ -17,18 +17,18 @@
 <h3>Jump straight to a heading in the text:</h3>
 
 &emsp; (Section 1)<br>
-<a href="001.php#a">A life of contrasts</a><br>
-<a href="001.php#b">Sources</a><br>
-<a href="001.php#c">Early years</a><br>
-<a href="001.php#d">Immediate family</a><br>
-<a href="001.php#e">The absent father</a><br>
-<a href="001.php#f">School and Oxford</a><br>
-<a href="001.php#g">The Boer War</a><br>
-<a href="001.php#h">Archaeology in Sinai</a><br>
-<a href="001.php#i">West Africa</a><br>
-<a href="001.php#j">Jennie</a><br>
-&bull; <a href="001.php#k">A piano footnote</a><br>
-<a href="001.php#l">The Great War</a><br>
+<a href="/montie/#a">A life of contrasts</a><br>
+<a href="/montie/#b">Sources</a><br>
+<a href="/montie/#c">Early years</a><br>
+<a href="/montie/#d">Immediate family</a><br>
+<a href="/montie/#e">The absent father</a><br>
+<a href="/montie/#f">School and Oxford</a><br>
+<a href="/montie/#g">The Boer War</a><br>
+<a href="/montie/#h">Archaeology in Sinai</a><br>
+<a href="/montie/#i">West Africa</a><br>
+<a href="/montie/#j">Jennie</a><br>
+&bull; <a href="/montie/#k">A piano footnote</a><br>
+<a href="/montie/#l">The Great War</a><br>
 <br>
 &emsp; (Section 2)<br>
 <a href="002.php#m">Engagement and wedding</a><br>
