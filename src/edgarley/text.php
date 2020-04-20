@@ -15,9 +15,9 @@ John Albert Porch, 1833&ndash;1914, the last &ldquo;Squire of Glastonbury&rdquo;
 
 <h2>Setting the scene</h2>
 
-<p>Edgarley Hall, at the southern foot of Glastonbury Tor, has been the home of Millfield Preparatory School since 1945. For probably almost 200 years from the early 18th to the early 20th century, it was the home of a remarkable family whose sudden fall from grace, primarily at the hands of the only daughter of the last squire, stunned the local community and the wider world. This and two further sad events shook the family to its core, and ensured that in May 1914, when the last squire, Albert Porch, died, the house and estate were left to his children, who sold up and never returned.</p>
+<p>Edgarley Hall, at the southern foot of Glastonbury Tor, has been the home of Millfield Preparatory School since 1945. For probably almost 200 years from the early 18th to the early 20th century, it was the home of a remarkable family whose sudden fall from grace, primarily at the hands of the only daughter of the last squire, stunned the local community and the wider world. This and two further sad events shook the family to its core, and ensured that in May 1914, when the last squire died, the house and estate were left to his children, who sold up and never returned.</p>
 
-<p>Try as I might, I could find no obituary other than the following account (without photo), hidden away on page 8 of the <i>Somerset and West of England Advertiser</i> of 5 June 1914, for an apparently popular and kindly gentleman, who had graced public life in Glastonbury for many years:</p>
+<p>The last squire was John Albert Porch, known as Albert Porch, an apparently popular and kindly gentleman, who graced public life in Glastonbury for many years. This obituary lies strangely hidden away on page 8 of the <cite>Somerset and West of England Advertiser</cite> of 5th June 1914.</p>
 
 
    <blockquote>
@@ -33,20 +33,16 @@ John Albert Porch, 1833&ndash;1914, the last &ldquo;Squire of Glastonbury&rdquo;
 
 <p>This is a very matter-of-fact account for the head of one of Glastonbury&rsquo;s most active, wealthy and widely respected families, which had provided the community with mayors, aldermen, JPs and general benefactors over a long period of time.</p>
 
-<p>In the pages that follow, I will try to make sense of this story, a story in which fate, or possibly something more sinister, seems to have played a key role, snatching the golden spoon in Albert&rsquo;s hand away so suddenly, catastrophically and undeservedly that this large and influential family, within little more that 30 years of its height in the 1880s, disappears without trace in a manner that is almost Hardyesque.</p>
+<p>In the account which follows, we will try to make sense of this story, a story in which fate, or possibly something more sinister, seems to have played a key role, snatching the golden spoon in Albert&rsquo;s hand away so suddenly, catastrophically and undeservedly that this large and influential family, within little more that 30 years of its height in the 1880s, disappears without trace in a manner that could be considered Hardyesque.</p>
 
 
 <h2>The beginning</h2>
 
-<p>You may already know, or have just gathered, that one particular dark deed overshadows our story ........</p>
+<p>Let us begin the story with a leather-bound book in possession of the Porch family called <i>Glaston Charters</i>, compiled by Thomas Porch Porch (more of him later) which contains a copy of the charter granted to Glastonbury by Queen Anne in 1705. A William Porch (&ldquo;our well-beloved&rdquo;, as Queen Anne described him), appears in it as one of the Burgesses, or leading citizens, of the town.</p>
 
-<p>But let us start the story at the beginning. Well, at my beginning anyway!</p>
+<p>Whether William Porch owned Edgarley (originally one of the granges of the Abbey) has not been established, but what is clear is that by the end of the 18th century the Porch family was firmly established in the Glastonbury and Wells area and had done very well for itself from the wool industry. A Captain Thomas Porch had a wool factory in Wells and a large house on the Cathedral Green. His business was then described as &ldquo;wool staplers&rdquo;, an antiquated expression meaning a dealer in wool. The Wells Porches were wealthy enough to have a family vault in the cathedral.</p>
 
-<p>My beginning is a leather-bound book in possession of the Porch family called <i>Glaston Charters</i>, compiled by Thomas Porch Porch (more of him later) which contains a copy of the charter granted to Glastonbury by Queen Anne in 1705. A William Porch (&ldquo;our well-beloved&rdquo;, as Queen Anne described him), appears in it as one of the Burgesses, or leading citizens, of the town.</p>
-
-<p>Whether William Porch owned Edgarley (originally one of the granges of the Abbey) we have not yet been able to determine, but what is clear is that by the end of the 18th century the Porch family was firmly established in the Glastonbury and Wells area and had done very well for itself from the wool industry. A Captain Thomas Porch had a wool factory in Wells and a large house on the Cathedral Green. His business was then described as &ldquo;wool staplers&rdquo;, an antiquated expression meaning a dealer in wool. The Wells Porches were wealthy enough to have a family vault in the cathedral.</p>
-
-<p>Captain Thomas Porch also owned the Edgarley estate, having bought it sometime in the middle of the 18th century. We know little of the house of that time, although Burke in his <i>Commoners of Great Britain</i> of 1815 wrote: &ldquo;There stood a hall of great antiquity known as St&nbsp;Dunstan&rsquo;s Hall, but Mr Porch, unconscious of so valuable a relic, gave orders for its destruction, which were too fatally carried into effect.&rdquo; It is very possible that the oak beams you see in the reception area of Millfield Prep School were from that same St Dunstan&rsquo;s Hall, and of course the bricked-up barrel-vaulted passageway or carriageway seen from outside is likely to have been a feature of the Georgian house, whose solid rectangular proportions were somewhat hidden in the changes of the late 19th century, which we shall come to later.</p>
+<p>Captain Thomas Porch also owned the Edgarley estate, having bought it sometime in the middle of the 18th century. We know little of the house of that time, although Burke in his <i>Commoners of Great Britain</i> of 1815 wrote: &ldquo;There stood a hall of great antiquity known as St&nbsp;Dunstan&rsquo;s Hall, but Mr Porch, unconscious of so valuable a relic, gave orders for its destruction, which were too fatally carried into effect.&rdquo; It is very possible that the oak beams in the reception area of Millfield Prep School were from that same St Dunstan&rsquo;s Hall, and of course the bricked-up barrel-vaulted passageway or carriageway seen from outside is likely to have been a feature of the Georgian house, whose solid rectangular proportions were somewhat hidden in the changes of the late 19th century, which we shall come to later.</p>
 
 <p>Captain Thomas Porch was a Justice of the Peace for the county and a captain in the Militia. He courted a Julia Woodward, whose brother Colonel Woodward was sometime Lord Lieutenant of Ireland. However, her extravagance put him off marrying her, although the relationship did produce a daughter, Maria, in 1782.</p>
 
@@ -59,7 +55,7 @@ Maria Porch
 John Fry Reeves
 <?php   figend()   ?>
 
-<p>There were plans for Maria to marry her handsome cousin, Thomas&rsquo;s profligate nephew Captain John Elliott Porch of the First Regiment of Foot Guards (later the Grenadiers), but her father Thomas had the engagement broken off after Captain John had apparently gambled away a huge sum of money in a single night to the Prince Regent. Thomas was understandably unwilling to see her inheritance go the same way!</p>
+<p>There were plans for Maria to marry her handsome cousin, Thomas&rsquo;s profligate nephew Captain John Elliott Porch of the First Regiment of Foot Guards (later the Grenadiers), but her father old Captain Thomas Porch had the engagement broken off after Captain John had apparently gambled away a huge sum of money in a single night to the Prince Regent. Thomas was understandably unwilling to see her inheritance go the same way!</p>
 
 <p>In his book <i>Stuckey&rsquo;s Bank</i>, P. T. Saunders says this was contemporary with Maria&rsquo;s first meeting with a young solicitor, John Fry Reeves, who came from a Nonconformist family, originally from Bristol (with links to the prosperous Fry family) but now lawyers and bankers, and landowners at Hartlake, between Glastonbury and Wells.</p>
 
@@ -90,7 +86,7 @@ Thomas Porch Porch, formerly Reeves
 
 <p>It was at the Abbey House that Thomas began his married life in 1830, having wedded Jane Barber, the daughter of Edward Barber of Barston Hall, Warwickshire, on her 16th birthday.</p>
 
-<p>Thomas was deeply interested in antiquities of all sorts and combined this with his love of poetry in a work of considerable size and erudition called <i>The Mysteries of Time, or Banwell Cave</i>, a poem in six cantos, which was published and ran to a second edition in 1833, although few would wade their way through it today.</p>
+<p>Having been steeped in Classics at Cambridge, Thomas was deeply interested in antiquities of all sorts and combined this with his love of poetry in a work of considerable size and erudition called <i>The Mysteries of Time, or Banwell Cave</i>, a poem in six cantos, which was published and ran to a second edition in 1833, although few would wade their way through it today.</p>
 
 <p>Banwell Caves, a Site of Special Scientific Interest and open to the public several times a year, comprise, <i>inter alia</i>, &ldquo;a Bone Cave&rdquo; and &ldquo;a&nbsp;Stalactite Cave&rdquo;, which lie within the grounds of a large house, at the western end of Banwell Hill. The caves contain barite deposits, a mineral found in greater abundance and variety here than at any other place in the Mendip Hills, and are used as a hibernation site by greater horseshoe bats. There are also several grottoes and follies, including Banwell Tower, which was completed in 1840. The caves are occasionally open to the public.</p>
 
@@ -98,7 +94,7 @@ Thomas Porch Porch, formerly Reeves
 The Hermitage, photographed about 1915
 <?php   figend()   ?>
 
-<p>It is my guess that sometime in the 1830s enough stone was transferred from the Abbey, where Thomas and Jane lived, to the house at Edgarley where John and Maria lived, to create the fascinating replica of the Abbot&rsquo;s Kitchen that stands in the grounds by the pond. The family called it &ldquo;The Hermitage&rdquo;. Now known as the Summer House, it was restored in 2008&ndash;10 by Millfield Estates, at the instigation and under the supervision of the then headmaster, Kevin Cheney.</p>
+<p>One could safely surmise that sometime in the 1830s enough stone was transferred from the Abbey, where Thomas and Jane lived, to the house at Edgarley where John and Maria lived, to create the fascinating replica of the Abbot&rsquo;s Kitchen that stands in the grounds by the pond. The family called it &ldquo;The Hermitage&rdquo;. Now known as the Summer House, it was restored in 2008&ndash;10 by Millfield Estates, at the instigation and under the supervision of the then headmaster, Kevin Cheney.</p>
 
 <p>As time went on, Thomas devoted more time and energy to the affairs of business, becoming an owner and the manager, as he was to be for the next 33 years, of the town&rsquo;s Stuckey&rsquo;s Bank, which had absorbed the Bank of Reeves and Porch in 1835. He also entered into community life. When the Municipal Corporations Act was passed in 1835 he was elected a member of the new Town Council, and on the following day he was unanimously chosen to be Glastonbury&rsquo;s first Mayor at the age of 27, which perhaps is hardly surprising as he was the town&rsquo;s leading landowner.</p>
 
@@ -136,7 +132,7 @@ Margaret Bagehot Porch
 
 <p> The marriage celebrations began ominously, however, as reported by the <i>Central Somerset Gazette</i> of 4 August that year, when two soldiers, who had obtained permission to fire a cannon to mark the happy event, suffered the most horrific injuries when the cannon misfired prematurely. Neither was expected to survive. Was this a portent of the unhappy outcome of Albert and Margaret&rsquo;s union?</p>
 
-<p>Not long after, the Abbey presented Thomas with another opportunity to strengthen the family&rsquo;s fortunes, for the Abbey estate was now owned, and the Abbey House occupied, by the Austins, originally a farming family from Tilham Farm, Baltonsborough, some of whose enterprising members had made their fortune in Victoria, Australia. This particular Austin, James, formerly Mayor of Geelong, had come home to spend his money and flaunt it!</p>
+<p>Not long after, the Abbey presented Thomas with another opportunity to strengthen the family&rsquo;s fortunes, for the Abbey estate was now owned, and the Abbey House occupied, by the Austins, originally a farming family from Tilham Farm, Baltonsborough, some of whose enterprising members had made their fortune in Australia, first in Tasmania, then Victoria. This particular Austin, James, formerly Mayor of Geelong, had come home to spend his money and flaunt it!</p>
 
 <?php   fig("left","pix/09-Porch-Austin-wedding-1870.jpg")   ?>
 The wedding of Reginald Porch and Annie Austin, 1870. Reginald&rsquo;s father Thomas Porch Porch is on the far left, with Reginald&rsquo;s elder brother, Albert, next towards the centre. Annie&rsquo;s&nbsp;father, the white-haired James Austin, is just behind her on her&nbsp;left.
@@ -153,7 +149,7 @@ The wedding of Reginald Porch and Annie Austin, 1870. Reginald&rsquo;s father Th
 
 <h2>Albert Porch</h2>
 
-<p>Back to the eldest Porch offspring, Albert, with whom this booklet opened. He and his new bride, Margaret, spent their early married life at Edgarley Lodge, a hundred yards up the road from the House. When his father, Thomas, died in 1877, they took up residence there, as befitted the new squire. The photo of the young family on the lawns of the Lodge must have been taken shortly before they moved. The children, in order of age, are Edith May (the eldest and the only daughter) about 10, Cecil 4, Robert 2, and baby Reginald (Reggie).</p>
+<p>Back to the eldest Porch offspring, Albert. He and his new bride, Margaret, spent their early married life at Edgarley Lodge, a hundred yards up the road from the House. When his father, Thomas, died in 1877, they took up residence there, as befitted the new squire. The photo of the young family on the lawns of the Lodge must have been taken shortly before they moved. The children, in order of age, are Edith May (the eldest and the only daughter) about 10, Cecil 4, Robert 2, and baby Reginald (Reggie).</p>
 
 <?php   fig("left","pix/10-Edgarley-Lodge-c1877.jpg")   ?>
 Albert and Margaret Porch and their family at Edgarley Lodge, photographed about 1876
@@ -277,14 +273,14 @@ Edith Carew&rsquo;s last order to the chemist, 20 October 1896 (National Archive
 Reggie Porch
 <?php   figend()   ?>
 
-<p>The effect of all this on Edith&rsquo;s parents will have been devastating; in fact Albert was said to have rarely set foot outside Edgarley in his later years. As if the imprisonment of his only daughter and the premature death of the only grandson he knew were not enough tragedy for this apparently kindly old country gentleman, news of a third catastrophe came shortly after. This was the disappearance of Albert and Margaret&rsquo;s third son, Reginald, who had gone to Japan in 1896 to study butterflies, but had unwittingly become the only family witness of the poisoning of his brother-in-law and the trial and the conviction of his elder sister for murder, all of which would have had a profound and lasting effect on him.</p>
+<p>The effect of all this on Edith&rsquo;s parents will have been devastating; in fact Albert was said to have rarely set foot outside Edgarley in his later years. As if the imprisonment of their only daughter and the premature death of their only grandson were not enough tragedy for this apparently kindly old country gentleman and his wife, news of a third catastrophe came shortly after. This was the disappearance of Albert and Margaret&rsquo;s third son, Reginald, who had gone to Japan in 1896 to study butterflies, but had unwittingly become the only family witness of the poisoning of his brother-in-law and the trial and the conviction of his elder sister for murder, all of which would have had a profound and lasting effect on him.</p>
 
-<p>&ldquo;Reggie&rdquo; Porch was an adventurous but restless and perhaps rather aimless young man, who had headed off to North America in the early years of the century, ranching, trapping, trading, and working as a Mountie. Then in April 1906 he arrived in San Francisco at the precise moment of the devastating earthquake. Having survived it, he, crucially, lost all his money in the chaotic aftermath. Writing a desperate letter home, he was wired more money from Glastonbury, but was never heard of again. The family firmly believe that he was gunned down while trying to fight off robbers.</p>
+<p>&ldquo;Reggie&rdquo; Porch was an adventurous but perhaps rather aimless young man who, after his fateful trip to Japan, had headed off to North America in the early years of the century, ranching, trapping, trading, and working as a Mountie. Then in April 1906 he arrived in San Francisco at the precise moment of the devastating earthquake. Having survived it, he, crucially, lost all his money in the chaotic aftermath. Writing a desperate letter home, he was wired more money from Glastonbury, but was never heard of again. The family firmly believe that he was gunned down while trying to fight off robbers.</p>
 
 
 <h2>Edgarley sold</h2>
 
-<p>Edith herself may have returned to live at Edgarley for a while after her release in 1910. However, when her father died in 1914, the estate was sold off and the whole family moved away for good, doubtless still reeling from the events of the last 20 years. (Incidentally, the last secular owner of the Abbey, Stanley Austin, had sold the Abbey estate in 1907 and moved away to Taunton, where he lived quietly until his death, childless, some years later. Stanley&rsquo;s obituary in the local paper dwelt principally on his involvement with the Glastonbury town band!)</p>
+<p>Edith herself may have returned to live at Edgarley for a while after her release in 1910. However, when her father died in 1914, the estate was sold off and the whole family moved away for good, doubtless still reeling from the events of the last 20 years. (Incidentally, the last secular owner of the Abbey, Stanley Austin, had sold the Abbey estate in 1907 and moved away to Taunton, where he lived quietly until his death, some years later. Stanley&rsquo;s obituary in the local paper dwelt principally on his involvement with the Glastonbury town band!)</p>
 
 <p>After the Porches sold up, Edith first moved to Chippenham, not far from her mother Margaret in Bath, then to Dinas Cross in South Wales, where she and her daughter, Mardie, who never married, lived a quiet life, surrounded by the sea and the Bedlington Terriers that Edith bred, until their respective deaths in 1958 and 1978. Edith never remarried.</p>
 
@@ -295,15 +291,15 @@ Reggie Porch
 
 <p>Time to introduce Cecil, the eldest of Albert and Margaret&rsquo;s three sons.</p>
 
-<p>Cecil seems to have been the black sheep of the family, who is sent away to board at age eight in Clevedon, then Charterhouse, and features in no family photos after infancy, no census lists at Edgarley or any legal documents yet seen. And yet Cecil was a brave soldier, who distinguished himself as lieutenant in the East Surreys in the Boer War. In fact on returning home to Glastonbury in the spring of 1900 after being wounded at Spion Kop, he is given a hero&rsquo;s welcome by the townspeople and local dignitaries. As the local paper reports:
+<p>Cecil seems to have been the black sheep of the family, who is sent away to board at age eight in Clevedon, then Charterhouse, and features in no family photos after infancy, no census lists at Edgarley or any legal documents seen hitherto. And yet Cecil was a brave soldier, who distinguished himself as lieutenant in the East Surreys in the Boer War. In fact on returning home to Glastonbury in the spring of 1900 after being wounded at Spion Kop, he is given a hero&rsquo;s welcome by the townspeople and local dignitaries. As the local paper reports:
 
    <blockquote>
 <p>All over the town flags were hoisted and bunting displayed, the bells of St Benedict&rsquo;s set ringing with joyous peals and crowds assembled to see him pass. As the train steamed in, the town band played <i>Home, Sweet Home</i>.</p>
    </blockquote>
 
-<p>How poignant this show of support and solidarity must have been for Cecil&rsquo;s parents when they reflected on the last time the town had turned out for the Porches &mdash; at Edith&rsquo;s wedding &mdash; also in springtime, some 11 years previously.</p>
+<p>How poignant this show of support and solidarity must have been for Cecil&rsquo;s parents when they reflected on the last time the town had turned out for the Porches, some 11 years previously &mdash; at Edith&rsquo;s wedding, also in springtime.</p>
 
-<p>The <i>West of England Advertiser</i> does not leave it there, for over the next few issues it printed long interviews with the highly decorated but diffident soldier about his service to the country in Natal.</p>
+<p>The <cite>West of England Advertiser</cite> does not leave it there, for over the next few issues it printed long interviews with the highly decorated but diffident soldier about his service to the country in Natal.</p>
 
 <?php   fig("left","pix/16-Cecil_clipview75.jpg")   ?>
 Cecil Porch, &ldquo;the soldier man&rdquo;, says the original caption.
@@ -328,7 +324,7 @@ Edith Maturin Porch, <span style="white-space:nowrap">captioned &ldquo;the autho
 
 <p>Cecil and Edith enjoyed an exciting and often idyllic time along the Zambesi, but their marriage was not to last and there were no children from it. Whether it was interrupted and changed forever by the 1914&ndash;18 war, like so many others, is not clear, but true to his character Cecil wastes no time in enlisting, commanding the Tyneside Scottish, 23rd Northumberland Fusiliers with the rank of lieutenant-colonel, and being awarded DSO and Bar, for conspicuous gallantry, at Armenti&egrave;res and Arras.</p>
 
-<p>But for the Great War, life might have been so different at Edgarley, for I suspect that Cecil, the eldest son, was the kind of man to shrug off the past, perhaps the true heir in spirit to the Edgarley estate. One can picture him, shooting, fishing, playing the part of the country gentleman, living the life of landed gentry and thumbing his nose to convention as he did later on at his Sussex golf club, when tongues were wagging about his private life. But Cecil, without money, without a wife, a family or a settled lifestyle and having been away for so long, was doubtless considered just too much of a maverick and so never became part of the equation. He was even omitted entirely from the legal documentation on the sale of the estate. In any case, at the time of his father Albert&rsquo;s death, Cecil was too busy serving king and country.</p>
+<p>But for the Great War, life might have been so different at Edgarley, for one suspects that Cecil, the eldest son, was the kind of man to shrug off the past, perhaps the true heir in spirit to the Edgarley estate. We can picture him, shooting, fishing, playing the part of the country gentleman, living the life of landed gentry and thumbing his nose to convention as he did later on at his Sussex golf club, when tongues were wagging about his private life. But Cecil, without money, without a wife, a family or a settled lifestyle and having been away for so long, was doubtless considered just too much of a maverick and so never became part of the equation. He even seems to have been omitted entirely from the legal documentation on the sale of the estate. In any case, at the time of his father Albert&rsquo;s death, Cecil was too busy serving king and country.</p>
 
 <p>Having been wounded three times, the last severely, he was invalided out of the army in 1917. Cecil very possibly found it difficult to adjust to civilian life, and he proceeded to have two children, neither of whose mothers he married. It is the first of the children, Pansy, who went to live with her Aunt Edith, now out of prison and living in South Wales with her own daughter Marjorie and their Bedlington terriers. Cecil&rsquo;s second child by another woman, a son, Richard, arrived just five years before Cecil died in 1933.</p>
 
@@ -352,21 +348,21 @@ Robin Porch returned to Glastonbury after colonial service and became a town cou
 
 <h2>Curse or care?</h2>
 
-<p>So what of the story of the Porches?</p>
+<p>So how should we view the Porches of Edgarley and their story?</p>
 
-<p>Early in the proceedings I alluded to the possibility that their fall might be something more sinister than simply fate, because of a curse that is said to be laid on secular owners of the Abbey. Indeed, on face value the fortunes of the Porches, the Reeves and even the Austins all foundered to a greater or lesser degree, the foremost in a dramatically sad fashion, as we have seen.</p>
+<p>Earlier, the possibility was raised that their fall might be something more sinister than simply fate, because of a curse that is said to be laid on secular owners of the Abbey. Indeed, on face value the fortunes of the Porches, the Reeves and the Austins all declined, the Porches in a dramatically sad fashion, as we have seen.</p>
 
 <?php   fig("right","pix/hermitage2010jn.jpg")   ?>
 The Hermitage, the miniature of the Abbot&rsquo;s Kitchen in the grounds of Edgarley House, was built by the Porch family about 1840 and recently restored by Millfield Estates. <bygreen>[JN]</bygreen>
 <?php   figend()   ?>
 
-<p>Whatever the truth of it, evidence suggests that all three of these families cared for the Abbey in a way it probably never had been since the Dissolution. For example, the Revd Richard Warner, in his 1826 <i>History of the Abbey of Glaston and of the Town of Glastonbury</i>, pays tribute to John Fry Reeves for his &ldquo;creditable zeal for the preservation of memorials of former ages for the inspection of the curious and the contemplation of the thoughtful for ages to come&rdquo;. Likewise, J. G. L. Bulleid, a founder of the Glastonbury Antiquarian Society, writes in <i>The Bath Chronicle and Weekly Gazette</i> of 2 April 1896 praising James and Stanley Austin, the last secular owners of the Abbey, for their care of the remains.</p>
+<p>Whatever the truth of it, evidence suggests that all three of these families cared for the Abbey in a way it probably never had been since the Dissolution. For example, the Revd Richard Warner, in his 1826 <cite>History of the Abbey of Glaston and of the Town of Glastonbury</cite>, pays tribute to John Fry Reeves for his &ldquo;creditable zeal for the preservation of memorials of former ages for the inspection of the curious and the contemplation of the thoughtful for ages to come&rdquo;. Likewise, J. G. L. Bulleid, a founder of the Glastonbury Antiquarian Society, writes in <cite>The Bath Chronicle and Weekly Gazette</cite> of 2 April 1896 praising James and Stanley Austin, the last secular owners of the Abbey, for their care of the remains.</p>
 
-<p>And the Porches? Well, Thomas Porch Porch and his son Albert Porch served the community in generous and wholehearted fashion over many, many years. Other members of the family, as we have seen, fought for king, queen and country and devoted their lives to educating its young people.</p>
+<p>As regards the Porch family, it cannot be denied that Thomas and Albert served the community in generous and wholehearted fashion over many, many years. Other members of the family, as we have seen, fought for king, queen and country and devoted their lives to educating its young people.</p>
 
 <p>And who would deny that in building the truly unique feature they called The Hermitage, the family preserved a significant quantity of Abbey stonework, which may otherwise have been lost to posterity, like so much else?</p>
 
-<p>So I, for one, salute the Porches!</p>
+<p>The evidence would suggest that this once distinguished family has more than paid their due.</p>
 
 <h2>Addendum &ndash; the extraordinary saga of the Porch family continues&hellip;</h2>
 
