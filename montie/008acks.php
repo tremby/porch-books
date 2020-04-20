@@ -2,7 +2,7 @@
   $titlebar = "Acknowledgements &mdash; Montie Porch: a charmed life";
   $notedir  = basename(dirname(__FILE__));
   $notedate = filemtime(__FILE__);
-  include '../!elements/articleheadporch.php';
+  include '../include/articleheadporch.php';
 ?>
 
 <?php include '005title.php'; ?>
@@ -94,5 +94,5 @@
 
 
 <?php
-  include '../!elements/articletail.php';
+  include '../include/articletail.php';
 ?>

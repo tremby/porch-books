@@ -2,7 +2,7 @@
   $titlebar = "Montie Porch: a charmed life";
   $notedir  = basename(dirname(__FILE__));
   $notedate = filemtime(__FILE__);
-  include '../!elements/articleheadporch.php';
+  include '../include/articleheadporch.php';
 ?>
 
 <?php include '005title.php'; ?>
@@ -370,9 +370,9 @@ Members of the Porch family since 1877 lie in a family plot at Glastonbury cemet
 
 <?php include '007menu.php'; ?>
 
-<?php include '../!elements/APpuff.php'; ?>
+<?php include '../include/APpuff.php'; ?>
 
 <?php
-  include '../!elements/articletail.php';
+  include '../include/articletail.php';
 
 ?>

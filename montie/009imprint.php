@@ -2,7 +2,7 @@
    $titlebar = "Imprint &mdash; Montie Porch: a charmed life";
    $notedir  = basename(dirname(__FILE__));
    $notedate = filemtime(__FILE__);
-   include '../!elements/articleheadporch.php';
+   include '../include/articleheadporch.php';
 ?>
 
 <?php include '005title.php'; ?>
@@ -44,10 +44,10 @@
 <p>These web pages derive from the printed booklet and use only simple HTML with CSS and PHP, no cookies or Javascript.</p>
 
 <br><br><br>
-<?php include '../!elements/APpuff.php'; ?>
+<?php include '../include/APpuff.php'; ?>
 
 <article><br>
 <?php include '007menu.php'; ?>
 
 
-<?php include '../!elements/articletail.php'; ?>
+<?php include '../include/articletail.php'; ?>

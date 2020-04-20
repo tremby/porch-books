@@ -2,7 +2,7 @@
   $titlebar = "Roger Parsons&rsquo; booklets on once-elite Glastonbury family | Abbey Press";
   $notedir  = basename(dirname(__FILE__));
   $notedate = filemtime(__FILE__);
-  include '!elements/articleheadporch.php';
+  include 'include/articleheadporch.php';
 ?>
 
 <box style="background-color:#dfd">
@@ -31,12 +31,12 @@ Click for web edition
 
 <p>Only a handful of printed copies are left (&pound;5 each; profits to charity); contact Abbey Press. Alternatively, ask <a href="mailto:111114@abbeypress.net">Abbey Press</a> for a PDF file (no charge) from which you can print your own copy.</p>
 
-<?php include '!elements/APpuff.php'; ?>
+<?php include 'include/APpuff.php'; ?>
 
 </box>
 
 <?php
-  include '!elements/articletail.php';
+  include 'include/articletail.php';
 ?>
 
 
