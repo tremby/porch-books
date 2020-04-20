@@ -7,9 +7,11 @@
 
 <box style="background-color:#dfd">
 
+<a href="edgarley/text">
 <?php   fig("left","porch-edgarley-cover.jpg", .75, 1)   ?>
-Web edition soon
+Click for web edition
 <?php   figend()   ?>
+</a>
 
 <a href="montie/1">
 <?php   fig("right","porch-montie-cover.jpg", .75, 1)   ?>
