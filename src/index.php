@@ -1,7 +1,6 @@
 <?php
   $titlebar = "Roger Parsons&rsquo; booklets on once-elite Glastonbury family | Abbey Press";
   $notedir  = basename(dirname(__FILE__));
-  $notedate = filemtime(__FILE__);
   include 'include/articleheadporch.php';
 ?>
 

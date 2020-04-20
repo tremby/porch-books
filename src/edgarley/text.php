@@ -1,7 +1,6 @@
 <?php
   $titlebar = "Victorian Edgarley: the fall of the House of Porch";
   $notedir  = basename(dirname(__FILE__));
-  $notedate = filemtime(__FILE__);
   include '../include/articleheadporch.php';
 ?>
 

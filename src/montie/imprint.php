@@ -1,7 +1,6 @@
 <?php
    $titlebar = "Imprint &mdash; Montie Porch: a charmed life";
    $notedir  = basename(dirname(__FILE__));
-   $notedate = filemtime(__FILE__);
    include '../include/articleheadporch.php';
 ?>
 
