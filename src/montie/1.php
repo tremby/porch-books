@@ -5,8 +5,8 @@
   include '../include/articleheadporch.php';
 ?>
 
-<?php include '005title.php'; ?>
-<?php include '007menu.php'; ?>
+<?php include '_005title.php'; ?>
+<?php include '_007menu.php'; ?>
 <br>
 
 <a name="a"><h2>A life of contrasts</h2></a>
@@ -24,7 +24,7 @@
 
 <p>As already stated, Montie&rsquo;s life is, obviously, explored to a greater or lesser degree in the many biographies of the Churchill family and of Jennie in particular, most notably, in the two-volume <i>Lady Randolph Churchill</i> by Ralph G. Martin, which draws on quotes from an interview with Montie himself that appeared in the press in 1959, and from details contained in the Oswald Frewen Papers.</p>
 
-<p>Other biographies and sources used are listed in the <a href="008acks.php" target="_blank"> Acknowledgements</a>, together with the names of those who have generously contributed to the biography in different ways.</p>
+<p>Other biographies and sources used are listed in the <a href="acks" target="_blank"> Acknowledgements</a>, together with the names of those who have generously contributed to the biography in different ways.</p>
 
 
 <a name="c"><h2>Early years</h2></a>
@@ -39,8 +39,8 @@ Wedding party of Reginald Porch and Annie Austin at Abbey House, 1870.
 
 <p>Anne, who was born in Geelong, Australia, was the daughter of James Austin, several times Mayor of Glastonbury, and the then owner of the Abbey and the Abbey House. James was one of the many Austins who had made their fortune in Tasmania and Victoria, but he was one of the few who came home to flaunt their influence and wealth, and spend it on such things as the Abbey!</p>
 
-<?php   fig("left","003famtree.png", 1/6, 1)   ?>
-<a href="003famtree.png" target="_new">Click to enlarge family tree.</a>
+<?php   fig("left","famtree.png", 1/6, 1)   ?>
+<a href="famtree.png" target="_new">Click to enlarge family tree.</a>
 <?php   figend()   ?>
 
 
@@ -268,13 +268,13 @@ Montie in uniform in 1918, at the time of his marriage to Jennie.
 
 <br>
 <ul id="list-nav">
-<li><a href="002.php">Continue to Section 2</a></li>
+<li><a href="2">Continue to Section 2</a></li>
 </ul>
 
 <br>
-<?php include '007menu.php'; ?>
+<?php include '_007menu.php'; ?>
 <br>
-<?php include '005title.php'; ?>
+<?php include '_005title.php'; ?>
 
 
 <?php

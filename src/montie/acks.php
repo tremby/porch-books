@@ -5,8 +5,8 @@
   include '../include/articleheadporch.php';
 ?>
 
-<?php include '005title.php'; ?>
-<?php include '007menu.php'; ?>
+<?php include '_005title.php'; ?>
+<?php include '_007menu.php'; ?>
 <br>
 
 
@@ -90,7 +90,7 @@
 <p style="text-align:center">&mdash; <b>Roger Parsons</b>, Glastonbury, 2019</p>
 
 <br>
-<?php include '007menu.php'; ?>
+<?php include '_007menu.php'; ?>
 
 
 <?php

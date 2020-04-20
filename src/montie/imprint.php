@@ -5,8 +5,8 @@
    include '../include/articleheadporch.php';
 ?>
 
-<?php include '005title.php'; ?>
-<?php include '007menu.php'; ?>
+<?php include '_005title.php'; ?>
+<?php include '_007menu.php'; ?>
 <br>
 
 
@@ -47,7 +47,7 @@
 <?php include '../include/APpuff.php'; ?>
 
 <article><br>
-<?php include '007menu.php'; ?>
+<?php include '_007menu.php'; ?>
 
 
 <?php include '../include/articletail.php'; ?>

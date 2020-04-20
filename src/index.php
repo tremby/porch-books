@@ -11,7 +11,7 @@
 Web edition soon
 <?php   figend()   ?>
 
-<a href="montie/">
+<a href="montie/1">
 <?php   fig("right","porch-montie-cover.jpg", .75, 1)   ?>
 Click for web edition
 <?php   figend()   ?>

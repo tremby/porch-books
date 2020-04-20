@@ -5,8 +5,8 @@
   include '../include/articleheadporch.php';
 ?>
 
-<?php include '05title.php'; ?>
-<?php include '07menu.php'; ?>
+<?php include '_05title.php'; ?>
+<?php include '_07menu.php'; ?>
 <br>
 
 
@@ -370,8 +370,8 @@ The Hermitage, the miniature of the Abbot&rsquo;s Kitchen in the grounds of Edga
 <p>So I, for one, salute the Porches!</p>
 
 <br><br><br><br>
-<?php include '07menu.php'; ?>
-<?php include '05title.php'; ?>
+<?php include '_07menu.php'; ?>
+<?php include '_05title.php'; ?>
 
 <?php
   include '../include/articletail.php';

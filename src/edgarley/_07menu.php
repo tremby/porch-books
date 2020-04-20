@@ -4,10 +4,10 @@
 <?php
   global $got_j ;
   $got_j = basename($_SERVER['PHP_SELF']);     // current_filename
-  menuitem("Text",        "/edgarley/");
-  menuitem("Family tree", "03famtree.png", "_new");
-  menuitem("Sources",     "08acks.php");
-  menuitem("Imprint" ,    "09imprint.php");
+  menuitem("Text",        "text");
+  menuitem("Family tree", "famtree.png", "_new");
+  menuitem("Sources",     "acks");
+  menuitem("Imprint" ,    "imprint");
 ?>
 <li> </li>
 </ul>

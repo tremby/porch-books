@@ -7,7 +7,6 @@
 // 190622 added <div class="wholepage"> to deal with readers who habitually view fullscreen; this constrains page to 800px. Articletail has </div>.
 // 190705 added Viewport metatag as sugested by Bart (email 190724)
 
-
   require 'functions.php';
   require 'functions2.php';
 ?>

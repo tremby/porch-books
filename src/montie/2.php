@@ -5,8 +5,8 @@
   include '../include/articleheadporch.php';
 ?>
 
-<?php include '005title.php'; ?>
-<?php include '007menu.php'; ?>
+<?php include '_005title.php'; ?>
+<?php include '_007menu.php'; ?>
 <br>
 
 
@@ -324,7 +324,7 @@ Montie Porch in 1959, aged 82, in his living room at Abbey Grange, Glastonbury.
 
 <a name="v"><h2>Glastonbury&rsquo;s last Porches</h2></a>
 
-<p>The 1960s were a sad decade for those members of the Porch family who had remained in Glastonbury, with the deaths of both of Montie&rsquo;s surviving sisters, Jessie and Queenie, and his cousin Dorothy. <i> [See <a href="003famtree.png" target="_new">family tree</a>]</i></p>
+<p>The 1960s were a sad decade for those members of the Porch family who had remained in Glastonbury, with the deaths of both of Montie&rsquo;s surviving sisters, Jessie and Queenie, and his cousin Dorothy. <i> [See <a href="famtree.png" target="_new">family tree</a>]</i></p>
 
 <p>A member of the younger generation too passed away &mdash; Montie&rsquo;s second cousin Robin Porch of Southfield, who was the grandson of Albert, the last Squire of Edgarley, a popular figure in the community and the only Porch from Albert&rsquo;s immediate family to have returned after the tragic events which saw them leave Edgarley at the beginning of the century.</p>
 
@@ -366,9 +366,9 @@ Members of the Porch family since 1877 lie in a family plot at Glastonbury cemet
 <p>Whatever the truth of it, one feels that this reserved but resilient man could not escape treading an inevitable path back to Glastonbury &mdash; even to an unmarked grave.</p>
 
 <br><br><br>
-<?php include '005title.php'; ?>
+<?php include '_005title.php'; ?>
 
-<?php include '007menu.php'; ?>
+<?php include '_007menu.php'; ?>
 
 <?php include '../include/APpuff.php'; ?>
 

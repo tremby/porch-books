@@ -5,8 +5,8 @@
   include '../include/articleheadporch.php';
 ?>
 
-<?php include '005title.php'; ?>
-<?php include '007menu.php'; ?>
+<?php include '_005title.php'; ?>
+<?php include '_007menu.php'; ?>
 <br>
 
 
@@ -17,31 +17,31 @@
 <h3>Jump straight to a heading in the text:</h3>
 
 &emsp; (Section 1)<br>
-<a href="/montie/#a">A life of contrasts</a><br>
-<a href="/montie/#b">Sources</a><br>
-<a href="/montie/#c">Early years</a><br>
-<a href="/montie/#d">Immediate family</a><br>
-<a href="/montie/#e">The absent father</a><br>
-<a href="/montie/#f">School and Oxford</a><br>
-<a href="/montie/#g">The Boer War</a><br>
-<a href="/montie/#h">Archaeology in Sinai</a><br>
-<a href="/montie/#i">West Africa</a><br>
-<a href="/montie/#j">Jennie</a><br>
-&bull; <a href="/montie/#k">A piano footnote</a><br>
-<a href="/montie/#l">The Great War</a><br>
+<a href="1#a">A life of contrasts</a><br>
+<a href="1#b">Sources</a><br>
+<a href="1#c">Early years</a><br>
+<a href="1#d">Immediate family</a><br>
+<a href="1#e">The absent father</a><br>
+<a href="1#f">School and Oxford</a><br>
+<a href="1#g">The Boer War</a><br>
+<a href="1#h">Archaeology in Sinai</a><br>
+<a href="1#i">West Africa</a><br>
+<a href="1#j">Jennie</a><br>
+&bull; <a href="1#k">A piano footnote</a><br>
+<a href="1#l">The Great War</a><br>
 <br>
 &emsp; (Section 2)<br>
-<a href="002.php#m">Engagement and wedding</a><br>
-<a href="002.php#n">Trouble on all fronts</a><br>
-<a href="002.php#o">Public glare in London</a><br>
-<a href="002.php#p">The Gold Coast and tragedy</a><br>
-<a href="002.php#q">Empty house</a><br>
-<a href="002.php#r">Marriage in Italy</a><br>
-<a href="002.php#s">Return to Glastonbury</a><br>
-<a href="002.php#t">From Lodge to lodger</a><br>
-<a href="002.php#u">In the papers</a><br>
-<a href="002.php#v">Glastonbury&rsquo;s last Porches</a><br>
-<a href="002.php#w">Montie&rsquo;s destiny</a><br>
+<a href="2#m">Engagement and wedding</a><br>
+<a href="2#n">Trouble on all fronts</a><br>
+<a href="2#o">Public glare in London</a><br>
+<a href="2#p">The Gold Coast and tragedy</a><br>
+<a href="2#q">Empty house</a><br>
+<a href="2#r">Marriage in Italy</a><br>
+<a href="2#s">Return to Glastonbury</a><br>
+<a href="2#t">From Lodge to lodger</a><br>
+<a href="2#u">In the papers</a><br>
+<a href="2#v">Glastonbury&rsquo;s last Porches</a><br>
+<a href="2#w">Montie&rsquo;s destiny</a><br>
    </box>
 
 <!--    <box style="float:left; width:40%;"> -->
