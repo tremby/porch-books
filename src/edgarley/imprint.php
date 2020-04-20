@@ -34,7 +34,7 @@
 
 <p>The printed booklets were designed and set by Jim Nagel in 11-point Goudy Oldstyle using Impression Publisher software &mdash; <i><a href="http://abbeypress.net/parsons">abbeypress.net/parsons</a></i></p>
 
-<p>These web pages derive from the printed booklet and use only simple HTML with CSS and PHP, no cookies or Javascript.</p>
+<p>These web pages derive from the printed booklet and use only simple HTML with CSS, no cookies or Javascript.</p>
 
 <article><br>
 <?php include '_07menu.php'; ?>
