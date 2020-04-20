@@ -1,5 +1,5 @@
 <?php
-  $titlebar = "Roger Parsons&rsquo; booklets on once-elite Glastonbury family | Abbey Press";
+  $titlebar = "The once-eminent Porch family of Glastonbury – two fascinating histories by Roger Parsons";
   $notedir  = basename(dirname(__FILE__));
   include 'include/articleheadporch.php';
 ?>
@@ -19,18 +19,22 @@ Click for web edition
 </a>
 
 <h2 style="font-family: sans-serif; font-weight: normal">
-<span style="white-space: nowrap">Two booklets</span> by Roger Parsons about Glastonbury&rsquo;s once-eminent Porch family</h2>
+The once-eminent Porch family of Glastonbury –
+two fascinating histories by Roger Parsons
+</h2>
 
-
-<p>The Porch dynasty was one of Glastonbury&rsquo;s wealthiest clans in the 19th century. Their fortune was made first in the wool trade then through banking and favourable marriages, such as into the Reeves family who owned the Abbey ruins and built Abbey House. Meanwhile the Porches enlarged their residence at Edgarley on the other side of the Tor, preserving many fine pieces of carved Abbey stone there. Many a Mayor of Glastonbury was a Porch.</p>
-
-<p>Infamy and downfall came in the early 20th century when a Porch heiress married a ne&rsquo;er-do-well playboy, poisoned him in Japan but was spared the gallows &mdash; it made international headlines at the time, and the Porches soon left Edgarley, never to return.</p>
-
-<p>Roger Parsons has thoroughly researched the family records during his years as archivist and teacher at Millfield Prep School, sited on the former Porch estate since 1945. His first booklet, <b><i>Victorian Edgarley: the fall of the House of Porch</i></b>, came out in 2010, followed by a second edition in 2014. A web edition is being prepared.</p>
-
-<p>A matching booklet &mdash; <b><i>Montie Porch, a charmed life: the Glastonbury man who married Winston Churchill&rsquo;s mother</i></b> &mdash; followed in 2012, reprinted in 2015. A second edition (2019) is now <a href="montie/">on the web</a>.</p>
-
-<p>Only a handful of printed copies are left (&pound;5 each; profits to charity); contact Abbey Press. Alternatively, ask <a href="mailto:111114@abbeypress.net">Abbey Press</a> for a PDF file (no charge) from which you can print your own copy.</p>
+<p>The Porch family was one of Glastonbury’s wealthiest and most influential in the 19th century.
+Their fortune was made first in the wool trade then through banking and favourable marriages, such as into the Reeves family, the builders and first residents of the Abbey House, and their eventual successors there, the Austins.
+The Porches’ own estate at Edgarley comprised a fine house and a fascinating folly made of many fine pieces of carved Abbey stone.</p>
+<p>Infamy and downfall came in the final years of the century when a Porch heiress was convicted of the murder of her husband, making international headlines at the time.
+Within twenty years, their name damaged beyond redemption, the Porches had left Edgarley, never to return.</p>
+<p>Roger Parsons has researched the family records during his time as archivist at Millfield Prep School, owners of the Edgarley Estate since 1945.</p>
+<p>His <strong><cite>Victorian Edgarley: the fall of the House of Porch</cite></strong> was published by Abbey Press in 2010, followed by a second edition in 2014, now available online, above.</p>
+<p>A matching booklet — <strong><cite>Montie Porch, a charmed life: the Glastonbury man who married Winston Churchill’s mother</cite></strong> — was also published by Abbey Press in 2012 and reprinted in 2015.
+A second edition in 2019 is now also available online, above.</p>
+<p>Roger would like to pay tribute to his friend, Jim Nagel, founder of Abbey Press, who passed away in March 2020 before he was able to complete the task of making the Victorian Edgarley story available on the web.
+Jim was a man whose love of the unique place that is Glastonbury shone through everything he did and achieved, and he will be sorely missed.</p>
+<p>Roger is immensely grateful to Jim’s son, Bart Nagel, for skilfully and swiftly finishing what his father sadly could not.</p>
 
 <?php include 'include/APpuff.php'; ?>
 
@@ -39,5 +43,3 @@ Click for web edition
 <?php
   include 'include/articletail.php';
 ?>
-
-
