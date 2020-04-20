@@ -18,7 +18,7 @@ function menuitem($label, $goget, $window=NULL) {
       $linktag = NULL;
       $endlink = NULL;
       } else {
-      $linktag = "<a href=$q$goget$q . $winspec . >" ;
+      $linktag = "<a href=$q$goget$q$winspec>" ;
       $endlink = "</a>";
       }
 
