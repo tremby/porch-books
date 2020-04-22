@@ -1,6 +1,10 @@
 
 <center>
-<a href="mailto:parsons.r@millfieldprep.com">parsons.r@millfieldprep.com</a>
+	<small>
+		<a href="mailto:parsons.r@millfieldprep.com">parsons.r@millfieldprep.com</a>
+	</small>
 
-<img src="/include/APlogo25.png" alt="Abbey Press Glastonbury" width=143 height=36>
+	&emsp;
+
+	<img src="/include/APlogo25.png" alt="Abbey Press Glastonbury" width=143 height=36 align=middle>
 </center>
