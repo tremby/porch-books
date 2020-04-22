@@ -364,6 +364,14 @@ Members of the Porch family since 1877 lie in a family plot at Glastonbury cemet
 
 <p>Whatever the truth of it, one feels that this reserved but resilient man could not escape treading an inevitable path back to Glastonbury &mdash; even to an unmarked grave.</p>
 
+   <box>
+<h2>Author&rsquo;s note</h2>
+
+<p>The book&rsquo;s title was originally <cite>Monty Porch: a charmed life</cite>, but this new edition uses the spelling <i>Montie</i> throughout. Having recently had access to a further quantity of Montie&rsquo;s personal papers, the author acknowledges his previous <i>-y</i> spelling to be incorrect, though it is common in newspapers and other sources. The undoubted preference of the man himself and the family is &ldquo;Montie&rdquo;.</p>
+
+<p>Otherwise this edition has comparatively minor revisions. Several photos are improved; the one from the Durbar race at Zaria and the one at Glastonbury cemetery were not in the first edition.</p>
+   </box>
+
 <br><br><br>
 <?php include '_005title.php'; ?>
 
