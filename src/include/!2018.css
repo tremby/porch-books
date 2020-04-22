@@ -12,7 +12,7 @@ body {
 /* 190622 copied this from BW.fresco/css to deal with Windows users who habitually view fullscreen. Set <div class="wholepage"> in articlehead & articletail. 190623 changed width to max-width to suit fone screens.  */
 div.wholepage {
    max-width: 800px;
-   margin: 10 auto;
+   margin: 20px auto;
 }
 
 article {
