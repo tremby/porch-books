@@ -8,7 +8,9 @@
 <?php include '_007menu.php'; ?>
 <br>
 
-<p><strong><a href="1">Begin reading with section 1</a></strong></p>
+<center>
+	<p><strong><a href="1">Begin reading with section 1</a></strong></p>
+</center>
 
 <h2>Contents</h2>
 
