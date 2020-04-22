@@ -378,6 +378,8 @@ The Hermitage, the miniature of the Abbot&rsquo;s Kitchen in the grounds of Edga
 <?php include '_07menu.php'; ?>
 <?php include '_05title.php'; ?>
 
+<?php include '../include/APpuff.php'; ?>
+
 <?php
   include '../include/articletail.php';
 ?>

@@ -33,7 +33,7 @@
 <br>
 <?php include '_07menu.php'; ?>
 
-
+<?php include '../include/APpuff.php'; ?>
 
 <?php
   include '../include/articletail.php';

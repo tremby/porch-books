@@ -91,6 +91,7 @@
 <br>
 <?php include '_007menu.php'; ?>
 
+<?php include '../include/APpuff.php'; ?>
 
 <?php
   include '../include/articletail.php';

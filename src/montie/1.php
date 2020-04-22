@@ -275,6 +275,7 @@ Montie in uniform in 1918, at the time of his marriage to Jennie.
 <br>
 <?php include '_005title.php'; ?>
 
+<?php include '../include/APpuff.php'; ?>
 
 <?php
   include '../include/articletail.php';

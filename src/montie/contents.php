@@ -51,6 +51,8 @@
 	</section>
 </nav>
 
+<?php include '../include/APpuff.php'; ?>
+
 <?php
   include '../include/articletail.php';
 ?>
