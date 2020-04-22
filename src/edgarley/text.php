@@ -86,7 +86,7 @@ Thomas Porch Porch, formerly Reeves
 
 <p>It was at the Abbey House that Thomas began his married life in 1830, having wedded Jane Barber, the daughter of Edward Barber of Barston Hall, Warwickshire, on her 16th birthday.</p>
 
-<p>Having been steeped in Classics at Cambridge, Thomas was deeply interested in antiquities of all sorts and combined this with his love of poetry in a work of considerable size and erudition called <i>The Mysteries of Time, or Banwell Cave</i>, a poem in six cantos, which was published and ran to a second edition in 1833, although few would wade their way through it today.</p>
+<p>Having been steeped in the Classics at Cambridge, Thomas was deeply interested in antiquities of all sorts and combined this with his love of poetry in a work of considerable size and erudition called <cite>The Mysteries of Time, or Banwell Cave</cite>, a poem in six cantos, which was published and ran to a second edition in 1833, although few would wade their way through it today.</p>
 
 <p>Banwell Caves, a Site of Special Scientific Interest and open to the public several times a year, comprise, <i>inter alia</i>, &ldquo;a Bone Cave&rdquo; and &ldquo;a&nbsp;Stalactite Cave&rdquo;, which lie within the grounds of a large house, at the western end of Banwell Hill. The caves contain barite deposits, a mineral found in greater abundance and variety here than at any other place in the Mendip Hills, and are used as a hibernation site by greater horseshoe bats. There are also several grottoes and follies, including Banwell Tower, which was completed in 1840. The caves are occasionally open to the public.</p>
 
@@ -364,7 +364,7 @@ The Hermitage, the miniature of the Abbot&rsquo;s Kitchen in the grounds of Edga
 
 <p>The evidence would suggest that this once distinguished family has more than paid their due.</p>
 
-<h2>Addendum &ndash; the extraordinary saga of the Porch family continues&hellip;</h2>
+<h2>The latest in the extraordinary saga of the Porch family</h2>
 
 <p>In 2015, there came a new and almost unbelievable disclosure about the family from Julian Wood, a hitherto-unknown great-great-great-grandson of the last squire, Albert Porch.</p>
 
