@@ -6,22 +6,26 @@
 
 <box style="background-color:#dfd">
 
-<a href="edgarley/text" aria-label="Read Victorian Edgarley: the fall of the House of Porch">
-<?php   fig("left","porch-edgarley-cover.jpg", .75, 1)   ?>
-Click for web edition
-<?php   figend()   ?>
-</a>
+<center>
+  <h2 style="font-family: sans-serif; font-weight: normal">
+    The once-eminent Porch family of Glastonbury –
+    two fascinating histories by Roger Parsons
+  </h2>
+</center>
 
-<a href="montie/contents" aria-label="Read Montie Porch, a charmed life: the Glastonbury man who married Winston Churchill’s mother">
-<?php   fig("right","porch-montie-cover.jpg", .75, 1)   ?>
-Click for web edition
-<?php   figend()   ?>
-</a>
+<div style="display: flex; justify-content: space-evenly; text-align: center;">
+  <a href="edgarley/text" aria-label="Read Victorian Edgarley: the fall of the House of Porch">
+    <?php   fig("left","porch-edgarley-cover.jpg", .75, 1)   ?>
+    Click for web edition
+    <?php   figend()   ?>
+  </a>
 
-<h2 style="font-family: sans-serif; font-weight: normal">
-The once-eminent Porch family of Glastonbury –
-two fascinating histories by Roger Parsons
-</h2>
+  <a href="montie/contents" aria-label="Read Montie Porch, a charmed life: the Glastonbury man who married Winston Churchill’s mother">
+    <?php   fig("right","porch-montie-cover.jpg", .75, 1)   ?>
+    Click for web edition
+    <?php   figend()   ?>
+  </a>
+</div>
 
 <p>The Porch family was one of Glastonbury’s wealthiest and most influential in the 19th century.
 Their fortune was made first in the wool trade then through banking and favourable marriages, such as into the Reeves family, the builders and first residents of the Abbey House, and their eventual successors there, the Austins.
